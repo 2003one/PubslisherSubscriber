@@ -1,0 +1,3 @@
+[console_scripts]
+pub = pubsub.publisher:main
+sub = pubsub.subscriber:main

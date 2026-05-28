@@ -1,0 +1,28 @@
+[0.641s] Invoking command in '/home/the2003onean/pubsub/src/pubsub': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/the2003onean/pubsub/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/the2003onean/pubsub/install/pubsub/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pubsub build --build-base /home/the2003onean/pubsub/build/pubsub/build install --record /home/the2003onean/pubsub/build/pubsub/install.log --single-version-externally-managed install_data
+[0.847s] running egg_info
+[0.863s] writing ../../build/pubsub/pubsub.egg-info/PKG-INFO
+[0.863s] writing dependency_links to ../../build/pubsub/pubsub.egg-info/dependency_links.txt
+[0.863s] writing entry points to ../../build/pubsub/pubsub.egg-info/entry_points.txt
+[0.864s] writing requirements to ../../build/pubsub/pubsub.egg-info/requires.txt
+[0.864s] writing top-level names to ../../build/pubsub/pubsub.egg-info/top_level.txt
+[0.896s] reading manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[0.897s] writing manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[0.897s] running build
+[0.897s] running build_py
+[0.897s] copying pubsub/subscriber.py -> /home/the2003onean/pubsub/build/pubsub/build/lib/pubsub
+[0.897s] copying pubsub/publisher.py -> /home/the2003onean/pubsub/build/pubsub/build/lib/pubsub
+[0.897s] running install
+[0.901s] running install_lib
+[0.918s] copying /home/the2003onean/pubsub/build/pubsub/build/lib/pubsub/subscriber.py -> /home/the2003onean/pubsub/install/pubsub/lib/python3.12/site-packages/pubsub
+[0.919s] copying /home/the2003onean/pubsub/build/pubsub/build/lib/pubsub/publisher.py -> /home/the2003onean/pubsub/install/pubsub/lib/python3.12/site-packages/pubsub
+[0.919s] byte-compiling /home/the2003onean/pubsub/install/pubsub/lib/python3.12/site-packages/pubsub/subscriber.py to subscriber.cpython-312.pyc
+[0.919s] byte-compiling /home/the2003onean/pubsub/install/pubsub/lib/python3.12/site-packages/pubsub/publisher.py to publisher.cpython-312.pyc
+[0.919s] running install_data
+[0.920s] running install_egg_info
+[0.937s] removing '/home/the2003onean/pubsub/install/pubsub/lib/python3.12/site-packages/pubsub-0.0.0-py3.12.egg-info' (and everything under it)
+[0.937s] Copying ../../build/pubsub/pubsub.egg-info to /home/the2003onean/pubsub/install/pubsub/lib/python3.12/site-packages/pubsub-0.0.0-py3.12.egg-info
+[0.938s] running install_scripts
+[1.047s] Installing pub script to /home/the2003onean/pubsub/install/pubsub/lib/pubsub
+[1.047s] Installing sub script to /home/the2003onean/pubsub/install/pubsub/lib/pubsub
+[1.047s] writing list of installed files to '/home/the2003onean/pubsub/build/pubsub/install.log'
+[1.065s] Invoked command in '/home/the2003onean/pubsub/src/pubsub' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/the2003onean/pubsub/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/the2003onean/pubsub/install/pubsub/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pubsub build --build-base /home/the2003onean/pubsub/build/pubsub/build install --record /home/the2003onean/pubsub/build/pubsub/install.log --single-version-externally-managed install_data
